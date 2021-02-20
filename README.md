@@ -2,6 +2,8 @@
 
 # Painel sobre a vacinação contra COVID-19 no Estado do Paraná
 
+Disponível em: https://datastudio.google.com/u/0/reporting/12742b0c-aa13-422f-9b5b-5e1727d3f249/page/wdz2B
+
 # Vacinação contra COVID-19 no Estado do Paraná
 De acordo com Agência Estadual de Noticias , o Paraná possui 1.850 salas de vacinação distribuídas nos 399 municípios e a vacinação ocorrerá de acordo com o recebimento dos imunizantes do Ministério da Saúde, de forma gradual e escalonada. A expectativa do Governo do Paraná é expandir a longo prazo a estratégia de vacinação para a população acima de 18 anos de idade ainda não vacinada totalizando 8.736.014 pessoas, de acordo com projeções do IBGE 2020 no Paraná, que estima um total de 11.516.840 pessoas residentes no estado (ESTADO DO PARANÁ, 2021).
 
