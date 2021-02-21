@@ -15,7 +15,7 @@ Os dados referentes aos registros de vacinação da Campanha Nacional de Vacina�
 O número de habitantes segundo faixa etária por município paranaense utilizado para o cálculo da Cobertura Vacinal foi coletado da Projeção da População em 2020 elaborada pelo Instituto Paranaense de Desenvolvimento Econômico e Social (Ipardes), disponível em: ipardes.gov.br.
 
 # Processamento dos dados
-Os dados deste painel foram processados utilizados a linguagem de programação Python através do ambiente de notebooks do Google Colab, utilizando a biblioteca Pandas para manipulação e operações das informações. As informações dos registros individuais de vacinação foram vinculados aos municípios do Paraná por meio do código do IBGE do município de localização do estabelecimento de saúde onde foi aplicada a dose da vacina contra COVID-19.
+Os dados deste painel foram processados utilizando a linguagem de programação Python através do ambiente de notebooks do Google Colab, foi utilizada a biblioteca Pandas para manipulação e operações das informações. As informações dos registros individuais de vacinação foram vinculados aos municípios do Paraná por meio do código do IBGE do município de localização do estabelecimento de saúde onde foi aplicada a dose da vacina contra COVID-19.
 
 # Referências
 ESTADO DO PARANÁ. Paraná divulga Plano Estadual de Vacinação contra a Covid-19. 16 jan. 2021. Disponível em: <www.aen.pr.gov.br/modules/noticias/article.php?storyid=110523&tit=Parana-divulga-Plano-Estadual-de-Vacinacao-contra-a-Covid-19>
