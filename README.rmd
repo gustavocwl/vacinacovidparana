@@ -1,1 +1,1 @@
-<iframe width="100%" height="100%" src="https://datastudio.google.com/u/0/reporting/12742b0c-aa13-422f-9b5b-5e1727d3f249/page/wdz2B" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="100" height="100" src="https://datastudio.google.com/u/0/reporting/12742b0c-aa13-422f-9b5b-5e1727d3f249/page/wdz2B" frameborder="0" style="border:0" allowfullscreen></iframe>
