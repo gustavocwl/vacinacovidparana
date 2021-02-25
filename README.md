@@ -1,3 +1,5 @@
+<iframe width="600" height="1135" src="https://datastudio.google.com/embed/reporting/12742b0c-aa13-422f-9b5b-5e1727d3f249/page/wdz2B" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 # vacinacovidpr
 
 # Painel sobre a vacinação contra COVID-19 no Estado do Paraná
